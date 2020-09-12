@@ -1,2 +1,2 @@
-# Python-GUI-
+# Python-GUI
 Basics using Tkinter 
